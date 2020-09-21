@@ -1,2 +1,2 @@
 # KNN_ROB311
-This project implements the KNN algorithme
+This project implements the KNN algorithm
